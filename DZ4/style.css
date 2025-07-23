@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.main-layout {
+    display: grid;
+    grid-template-areas: "header" "hero" "services" "portfolio" "about" "footer";
+    gap: 40px;
+    padding: 16px;
+} /* 2. Header с grid */
+
+.header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+}
+.hero {
+    background: linear-gradient( #4facfe, #00f2fe);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+.hero h1 {
+    text-align: center;
+}
+.hero button {
+    background-color: #3f59ba;
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.menu a{
+    margin-right: 20px;
+}
+
+
+/* 3. Сетка услуг */
+
+.services-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 30px;
+
+} /* 4. Адаптивное портфолио */
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+}
+.card img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+/* 5. Двухколоночная секция */
+
+.about-section {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 40px;
+
+}
+.footer {
+    background: linear-gradient( #4facfe, #00f2fe);
+    text-align: center;
+}
+@media (max-width: 1023px) {
+    .services-grid {
+        grid-template-columns:  1fr;
+        grid-template-rows: repeat(4, auto);
+    }
+    .portfolio-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    }
+    .about-section {
+        grid-template-columns: 1fr ;
+    }
+}
+
+
