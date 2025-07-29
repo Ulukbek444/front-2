@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b294c2a-b481-4798-8d4b-d205487a0f8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dz7/add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz8/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled7" beforeDir="false" afterPath="$PROJECT_DIR$/untitled7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled7/.idea/modules.xml" beforeDir="false" />
@@ -60,8 +60,8 @@
       <recent name="C:\Users\user\Desktop\front-2\DZ4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\front-2\dz6" />
       <recent name="C:\Users\user\Desktop\front-2" />
+      <recent name="C:\Users\user\Desktop\front-2\dz6" />
       <recent name="C:\Users\user\Desktop\front-2\dz5" />
     </key>
   </component>
@@ -86,7 +86,7 @@
       <workItem from="1753613317510" duration="103000" />
       <workItem from="1753614519860" duration="111000" />
       <workItem from="1753694458849" duration="946000" />
-      <workItem from="1753790918726" duration="7748000" />
+      <workItem from="1753790918726" duration="15684000" />
     </task>
     <servers />
   </component>
