@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b294c2a-b481-4798-8d4b-d205487a0f8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dz6/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz7/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled7" beforeDir="false" afterPath="$PROJECT_DIR$/untitled7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled7/.idea/modules.xml" beforeDir="false" />
@@ -30,31 +30,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="30H9ir5GMN6o7VrcMxr2zNnjBNp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/Desktop/front-2/DZ4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/front-2/DZ4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\front-2\DZ4" />
@@ -79,7 +79,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753273760428</updated>
-      <workItem from="1753273761596" duration="14677000" />
+      <workItem from="1753273761596" duration="15209000" />
+      <workItem from="1753363905406" duration="13000" />
+      <workItem from="1753522985718" duration="3102000" />
+      <workItem from="1753612528342" duration="43000" />
+      <workItem from="1753613317510" duration="103000" />
+      <workItem from="1753614519860" duration="111000" />
+      <workItem from="1753694458849" duration="946000" />
+      <workItem from="1753790918726" duration="7748000" />
     </task>
     <servers />
   </component>
